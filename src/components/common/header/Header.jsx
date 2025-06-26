@@ -2,7 +2,9 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>dmaskldasmkl</div>
+    <div>
+        header hissesi duzeldildi
+    </div>
   )
 }
 
