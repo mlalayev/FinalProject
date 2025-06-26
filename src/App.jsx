@@ -10,7 +10,7 @@ function App() {
 
       <a href="/">About</a>
       <a href="/contact">Contact</a>
-
+      ismayil oz adini yazdi
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<About></About>} />
